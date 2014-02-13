@@ -11,19 +11,20 @@ Monte a tela do formulário de contato usando os seguintes recursos e frameworks
 Requisitos
 ==========
 
-* Usar LESS para os estilos
-* Validação frontend e backend
-* O formulário deve ser enviado via ajax
-* Intregração com google maps em endereço fictício
-* Usar PDO para acesso ao banco
-* Gravar os contatos no banco e disparar e-mail
+* Usar LESS para os estilos;
+* Validação frontend e backend;
+* O formulário deve ser enviado via ajax;
+* Intregração com Google maps em endereço fictício;
+* Usar PDO para acesso ao banco;
+* Gravar os contatos no banco e disparar e-mail;
+* Frontend compatível com Internet Explorer 8+, Chrome e Firefox.
 
 Material
 ========
 
-No repositório você vai encontrar o PSD com a tela de contato, use-o para montar somente a tela de contato.
+No repositório você vai encontrar o PSD do layout da página do sistema de contato, construa a página com as funcionalidades listadas acima.
 
 Inicio e Fim do Teste
 =====================
 
-Faça o fork do repositorio, e para entregar, faço um pull request.
+Faça o fork do repositorio, e para entregar faça um pull request.
