@@ -15,7 +15,7 @@ Requirements
 * Validate input in frontend (with friendly messages) and backend;
 * The form must be sent using POST method on ajax;
 * Integrate Google Maps API in any location you want;
-* Make use of PDO to database transactions;
+* Make use of PDO in database transactions;
 * Write all contacts to the database and send an e-mail to a parametrized address;
 * Make use of a SMTP server to send the e-mail, and not PHP's mail();
 * The frontend must be compatible with MS Internet Explorer 8+, Chrome and Firefox.
