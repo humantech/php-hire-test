@@ -14,7 +14,7 @@ Requirements
 * Use LESS to create styles;
 * Validate input in frontend (with friendly messages) and backend;
 * The form must be sent using POST method on ajax;
-* Integrate Google Maps API in any address you want;
+* Integrate Google Maps API in any location you want;
 * Make use of PDO to database transactions;
 * Write all contacts to the database and send an e-mail to a parametrized address;
 * Make use of a SMTP server to send the e-mail, and not PHP's mail();
