@@ -1,31 +1,31 @@
-hire-test
+php-hire-test
 =========
 
-Monte a tela do formulário de contato usando os seguintes recursos e frameworks:
+Create a contact form using the following frameworks and resources:
 
 * Bootstrap 3.1.1 - CSS
 * jQuery 1.10.2
 * Slim Framework - PHP
 * MySQL
 
-Requisitos
+Requirements
 ==========
 
-* Usar LESS para os estilos;
-* Validação frontend e backend;
-* O formulário deve ser enviado via ajax;
-* Intregração com Google maps em endereço fictício;
-* Usar PDO para acesso ao banco;
-* Gravar os contatos no banco e disparar e-mail;
-* Usar um sistema de SMTP e não mail();
-* Frontend compatível com Internet Explorer 8+, Chrome e Firefox.
+* Use LESS to create styles;
+* Validate input in frontend (with friendly messages) and backend;
+* The form must be sent using POST method on ajax;
+* Integrate Google Maps API in any address you want;
+* Make use of PDO to database transactions;
+* Write all contacts to the database and send an e-mail to a parametrized address;
+* Make use of a SMTP server to send the e-mail, and not PHP's mail();
+* The frontend must be compatible with MS Internet Explorer 8+, Chrome and Firefox.
 
-Material
-========
+Assets
+======
 
-No repositório você vai encontrar o PSD do layout da página do sistema de contato, construa a página com as funcionalidades listadas acima.
+In this repository you'll find a Photoshop PSD file that will guide you on how the contact form should look, using the requirements listed above.
 
-Inicio e Fim do Teste
-=====================
+How to do this test
+===================
 
-Faça o fork do repositorio, e para entregar faça um pull request.
+First, fork the repository. When you're done, just send us a pull request :)
