@@ -17,6 +17,7 @@ Requisitos
 * Intregração com Google maps em endereço fictício;
 * Usar PDO para acesso ao banco;
 * Gravar os contatos no banco e disparar e-mail;
+* Usar um sistema de SMTP e não mail();
 * Frontend compatível com Internet Explorer 8+, Chrome e Firefox.
 
 Material
