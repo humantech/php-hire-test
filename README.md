@@ -25,7 +25,7 @@ Assets
 
 In this repository you'll find a Photoshop PSD file that will guide you on how the contact form should look, using the requirements listed above.
 
-How to do this test
+How to do the test
 ===================
 
 First, fork the repository. When you're done, just send us a pull request :)
