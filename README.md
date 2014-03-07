@@ -55,6 +55,6 @@ We use Knowledge Management to evaluate, identify, generate and manage the intel
 
 ## A little bit more about us
 
-<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/ZNEqk_u3twY?hl=en_US&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/ZNEqk_u3twY?hl=en_US&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+[![Gestão do conhecimento - a evolução da sociedade do conhecimento ](http://img.youtube.com/vi/ZNEqk_u3twY/0.jpg)](http://www.youtube.com/watch?v=ZNEqk_u3twY)
 
-_A little bit pld, but still good!_ ;)
+_A little bit old, but still good!_ ;)
