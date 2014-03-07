@@ -1,7 +1,7 @@
 # PHP job application test
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">php-hire-test</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/humantech/php-hire-test" property="cc:attributionName" rel="cc:attributionURL">Humantech</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-Ahoy there, mate! This is capt. Richard ([@vltr](https://github.com/vltr)) writing, about this simple idea of ours: write a hiring application test based on well known technologies, such as git ... and some other things.
+Ahoy there, mate! This is capt. Richard (aka. [@vltr](https://github.com/vltr), head of [@humantech](https://github.com/orgs/humantech/members) development team) writing about this simple idea of ours: write a hiring application test based on well known technologies, such as git ... and some other things.
 
 ## Of what does this test consists?
 First and uniquely, it's all about a different kind of job application for [our company](http://www.humantech.com.br/), mainly because **we are currently hiring**!! :) Another motivation is to go to the source of your habilities, _literally_.
@@ -18,7 +18,7 @@ Create a contact form based on the Adobe Photoshop _contact.psd_ file available 
 * Bootstrap 3.1+ - LESS/CSS Framework
 * jQuery 1.10+ - JavaScript framework
 * Slim Framework - PHP 5.3+
-** If you choose another PHP framework, you'll better have a good reason for it ;)
+ * If you choose another PHP framework, you'll better have a good reason for it ;)
 * MySQL 5.x+
 
 ## Requirements
