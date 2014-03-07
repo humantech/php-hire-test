@@ -9,7 +9,7 @@ First and uniquely, it's all about a different kind of job application for [our 
 ## The job itself
 Our open spot is for **web development**, mainly PHP 5.3+ for backend and JavaScript / CSS / HTML for the client-side. Looks like a piece of cake at first (if you're the one), but it can be tricky (and satisfying) at the same time!
 
-### Why is this written in english?
+### Why is it written in english?
 Because **english is a must nowadays for software development**. You may find specs and material in our native language (brazilian portuguese), but don't expect to find a translated version of functions and variables of the source code of your preferred tool or framework. This is highly unlikely ... Seriously.
 
 # Goal
@@ -35,6 +35,9 @@ Create a contact form based on the Adobe Photoshop _contact.psd_ file available 
 * How you treat code licensing;
 * How you deal with encodings and charsets;
 * How you'll handle the build process (if any);
+* How W3C compliant your code will be;
+* How fast and speed optimizable the page will shown;
+* Are you aware of the latest asset optimization techniques?
 * Your overall interest in our company and technologies :)
 
 ## How to do the test
@@ -46,3 +49,12 @@ Create a contact form based on the Adobe Photoshop _contact.psd_ file available 
 # Licensing
 This test and assets are created by Humantech Knowledge Management under the [
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license.
+
+# About Humantech
+We use Knowledge Management to evaluate, identify, generate and manage the intellectual assets of organizations. You can learn more about us at our [official homepage](http://www.humantech.com.br/). _Warning: brazilian portuguese only._
+
+## A little bit more about us
+
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/ZNEqk_u3twY?hl=en_US&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/ZNEqk_u3twY?hl=en_US&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+_A little bit pld, but still good!_ ;)
