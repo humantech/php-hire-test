@@ -65,4 +65,4 @@ We use Knowledge Management to evaluate, identify, generate and manage the intel
 
 _A little bit old, but still good!_ ;)
 
-_And brazilian portuguese only yoo, sorry._
+_And brazilian portuguese only too, sorry._
