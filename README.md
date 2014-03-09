@@ -13,13 +13,19 @@ Our open spot is for **web development**, mainly PHP 5.3+ for backend and JavaSc
 Because **english is a must nowadays for software development**. You may find specs and material in our native language (brazilian portuguese), but don't expect to find a translated version of functions and variables of the source code of your preferred tool or framework. This is highly unlikely ... Seriously.
 
 # Goal
-Create a contact form based on the Adobe Photoshop _contact.psd_ file available in this repository, using it to guide how it shoud look. You should use the following frameworks and resources:
+Create a contact form based on the Adobe Photoshop _contact.psd_ file available in this repository, using it to guide how it shoud look. If you don't have access to Adobe Photoshop, you can simply use GIMP (like I did) or any other software and take advantage of some "clues" of the file I left in the _contacts-assets_ directory. You should use the following frameworks and resources:
 
 * Bootstrap 3.1+ - LESS/CSS Framework
 * jQuery 1.10+ - JavaScript framework
 * Slim Framework - PHP 5.3+
  * If you choose another PHP framework, you'll better have a good reason for it ;)
+  * And do not use Wordpress. Use plain PHP if you wish, but not Wordpress
 * MySQL 5.x+
+
+## Preview
+**Be aware!** The watermark is not important! :P
+
+![alt text](//github.com/humantech/php-hire-test/raw/master/contacts-assets/contacts_preview_small.png "Contacts preview")
 
 ## Requirements
 * Use LESS CSS pre-processor to create user styles;
@@ -58,3 +64,4 @@ We use Knowledge Management to evaluate, identify, generate and manage the intel
 [![Gestão do conhecimento - a evolução da sociedade do conhecimento ](http://img.youtube.com/vi/ZNEqk_u3twY/0.jpg)](http://www.youtube.com/watch?v=ZNEqk_u3twY)
 
 _A little bit old, but still good!_ ;)
+_And brazilian portuguese only yoo, sorry._
