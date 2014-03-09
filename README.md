@@ -25,7 +25,7 @@ Create a contact form based on the Adobe Photoshop _contact.psd_ file available 
 ## Preview
 **Be aware!** The watermark is not important! :P
 
-![alt text](//github.com/humantech/php-hire-test/raw/master/contacts-assets/contacts_preview_small.png "Contacts preview")
+![alt text](https://github.com/humantech/php-hire-test/raw/master/contacts-assets/contacts_preview_small.png "Contacts preview")
 
 ## Requirements
 * Use LESS CSS pre-processor to create user styles;
