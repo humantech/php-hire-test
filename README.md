@@ -1,7 +1,3 @@
-# *WE ARE NOT HIRING ATM*
-
-But, our test will still be available :)
-
 # PHP job application test
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">php-hire-test</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/humantech/php-hire-test" property="cc:attributionName" rel="cc:attributionURL">Humantech</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
@@ -39,7 +35,7 @@ Create a contact form based on the Adobe Photoshop _contact.psd_ file available 
 * Make usage of PDO abstraction layer for database transactions;
 * Write all contacts to a database and send an e-mail to a parametrized address;
 * Make use of a SMTP server to send the e-mail, and not PHP's mail();
-* The client-side must be visually and functionally compatible (_pay attention: I'm saying compatible, be sure on what this means_) with MS Internet Explorer 8+, Chrome and Firefox. The technique for this is up to you;
+* The client-side must be visually and functionally compatible (_pay attention: I'm saying compatible, be sure on what this means_) with MS Internet Explorer 9+, Chrome and Firefox. The technique for this is up to you;
 
 ## What can distinguish you from the others
 * How you treat code licensing;
