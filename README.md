@@ -13,19 +13,19 @@ Our open spot is for **web development**, mainly PHP 5.3+ for backend and JavaSc
 Because **english is a must nowadays for software development**. You may find specs and material in our native language (brazilian portuguese), but don't expect to find a translated version of functions and variables of the source code of your preferred tool or framework. This is highly unlikely ... Seriously.
 
 # Goal
-Create a contact form based on the Adobe Photoshop _contact.psd_ file available in this repository, using it to guide how it shoud look. If you don't have access to Adobe Photoshop, you can simply use GIMP (like I did) or any other software and take advantage of some "clues" of the file I left in the _contacts-assets_ directory. You should use the following frameworks and resources:
+Create a contact form based on the Adobe Photoshop _contact.psd_ file available in this repository, using it to guide how it shoud look. If you don't have access to Adobe Photoshop, you can simply use GIMP (like I did). You should use the following frameworks and resources:
 
 * Bootstrap 3.1+ - LESS/CSS Framework
 * jQuery 1.10+ - JavaScript framework
 * Slim Framework - PHP 5.3+
  * If you choose another PHP framework, you'll better have a good reason for it ;)
-  * And do not use Wordpress. Use plain PHP if you wish, but not Wordpress
+  * And do not use Wordpress or plain PHP
 * MySQL 5.x+
 
 ## Preview
 **Be aware!** The watermark is not important! :P
 
-![alt text](https://github.com/humantech/php-hire-test/raw/master/contacts-assets/contacts_preview_small.png "Contacts preview")
+![alt text](https://github.com/humantech/php-hire-test/raw/master/resources/preview.png "Contacts preview")
 
 ## Requirements
 * Use LESS CSS pre-processor to create user styles;
@@ -49,8 +49,8 @@ Create a contact form based on the Adobe Photoshop _contact.psd_ file available 
 ## How to do the test
 1. Fork this repository, of course;
 2. Create a branch with your github username, organizing assets, resources and files as you think it should;
-3. The contact form **must be called index.php**;
-4. When you're done, make a pull request and send us an e-mail to richard (at) humantech (dot) com (dot) br.
+3. Please, use composer and bower to manage the project dependencies;
+4. When you're done, make a pull request and send us an e-mail to rh (at) humantech (dot) com (dot) br.
 
 # Licensing
 This test and assets are created by Humantech Knowledge Management under the [
