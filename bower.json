@@ -1,0 +1,20 @@
+{
+  "name": "php-hire-test",
+  "version": "1.0.1",
+  "homepage": "https://github.com/humantech/php-hire-test",
+  "authors": [
+    "Ricardo Lüders <ricardo.luders@humantech.com.br>"
+  ],
+  "description": "PHP Hire Test",
+  "license": "CC-BY-4.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}

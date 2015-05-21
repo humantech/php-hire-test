@@ -1,0 +1,19 @@
+{
+    "name": "humantech/php-hire-test",
+    "description": "PHP Hire Test",
+    "license": "CC-BY-4.0",
+    "authors": [
+        {
+            "name": "Ricardo Lüders",
+            "email": "ricardo.luders@humantech.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0",
+        "monolog/monolog": "1.*",
+        "slim/slim": "2.*",
+        "slim/views": "0.*",
+        "twig/twig": "1.*"
+    }
+}
